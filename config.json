@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testing Python Code with pytest",
+      "description": "Learn how to write automated tests for Python functions using pytest and best testing practices.",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-06-20",
+      "attachments": [
+        {
+          "name": "Testing Starter Code",
+          "file": "src/utils.py",
+          "type": "python"
+        },
+        {
+          "name": "pytest Tests",
+          "file": "test_utils.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
